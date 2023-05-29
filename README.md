@@ -1,6 +1,6 @@
 # My Bootstrap 5 Project
 
-This is a static website built with Bootstrap 5, optimized and bundled using Parcel.
+This is a static web page built with Bootstrap 5, optimized and bundled using Parcel.
 
 ## Overview
 
